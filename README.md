@@ -31,3 +31,13 @@ Commit 1
 1. ./src/index.html - se agrega url de bootstrap 4
 2. Se crea el componente - components/product-list
 3. ./src/app/app.component.html - se agrega el componente del punto 2(components/product-list)
+
+---------------------------------------------------------------------
+Commit 2
+4. Crear clase common/product
+5. Crear servicio services/product
+6. En ./src/app/app.module.ts, importar HttpClientModule y agregar el servicio a providers
+
+---------------------------------------------------------------------
+Commit 3
+7. ./src/app/services/product.service.ts se configura el servicio para obtener los productos del backend
