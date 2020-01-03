@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+---------------------------------------------------------------------
+Commit 1
+1. ./src/index.html - se agrega url de bootstrap 4
+2. Se crea el componente - components/product-list
+3. ./src/app/app.component.html - se agrega el componente del punto 2(components/product-list)
